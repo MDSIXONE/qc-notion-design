@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-30",
+  "status": "role_selected_conditional_proposal_not_executed",
+  "player_thread_id": "01a188e7-5b51-7360-931a-84a249c249c8",
+  "review_turn_ids": ["01a18a68-d25d-7a51-a5bd-583b3289cd96", "01a18a6e-6eba-79d0-a38c-3b6e64540145", "01a18a70-f10d-7313-a7f6-ba6712c5c1a6"],
+  "persona": "active_spender_all_six_categories",
+  "funding_mode": "fewer_checkouts",
+  "accepted_A_categories": ["convenience", "shop_equipment", "paid_draws", "affix_training", "season_pass", "legend_pet"],
+  "main_case": "guarantee_few",
+  "default_stop_stage": "C",
+  "main_conditional_paid_rmb": 3520.1,
+  "main_cash_remaining_rmb": 1479.9,
+  "main_points_remaining": 376,
+  "comparisons": [
+    {"case": "early_few", "paid_rmb": 2294.1, "cash_remaining_rmb": 2705.9, "points_remaining": 479},
+    {"case": "middle_few", "paid_rmb": 2978.1, "cash_remaining_rmb": 2021.9, "points_remaining": 493}
+  ],
+  "D_extra_recharge_cancelled_rmb": 1296,
+  "D_trigger": "actual_single_target_frequent_misses_and_player_still_wants_faster_clear;separate_adoption_required",
+  "special_weapon_selected": false,
+  "last_willing_topup_minutes_after_takeover": [150,180],
+  "additional_play_after_C_minutes": [45,60],
+  "repetitive_content_boredom_minutes_after_takeover": [195,240],
+  "invincibility_scope": "local_evaluated_PvE_satisfaction_only;not_entire_game_or_PvP",
+  "prediction_not_live_retention": true,
+  "actual_payments": 0,
+  "legacy_accepted_state_changed": false,
+  "legacy_accepted_simulated_paid_rmb": 6
+}
